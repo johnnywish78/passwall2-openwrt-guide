@@ -2,6 +2,14 @@
 
 # PassWall2 Installation Guide for OpenWrt 25.x
 
+## 🌐 Language / زبان
+
+- 🇬🇧 English (Current)
+- 🇮🇷 [فارسی](README_FA.md)
+- 
+
+# PassWall2 Installation Guide for OpenWrt 25.x
+
 A practical installation and troubleshooting guide for running PassWall2 on modern OpenWrt releases.
 
 This repository was created because many users experience dependency issues, package conflicts, or compatibility problems when installing PassWall2 on recent OpenWrt versions.
