@@ -6,7 +6,7 @@
 
 - 🇬🇧 English (Current)
 - 🇮🇷 [فارسی](README_FA.md)
-- 
+
 
 # PassWall2 Installation Guide for OpenWrt 25.x
 
